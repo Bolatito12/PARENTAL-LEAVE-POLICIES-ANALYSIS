@@ -4,7 +4,7 @@ This project focuses on analyzing parental leave data from across different indu
 ## Project Objectives:
 This project is to review existing parental leave policies across different organizations and understand their structure. It aims to assess the impact of these policies on employees' well-being, job satisfaction, and work-life balance. Additionally, the project will evaluate how parental leave affects business performance, including productivity and employee retention.
 
-## Data Used
+## Data Used:
 - <a href="https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=parental">Dataset</a>
 
 
@@ -22,7 +22,7 @@ This project is to review existing parental leave policies across different orga
   ![Screenshot 2025-02-13 154654](https://github.com/user-attachments/assets/ba1a3e11-edac-45c0-aeac-32f7f86788c5)
 
 
-  ## Conclution:
+ ## Conclution:
   
 - Paid vs. Unpaid Leave Disparity
   
@@ -30,17 +30,17 @@ This project is to review existing parental leave policies across different orga
 
 - Industry Differences
   
- The technology industry appears to provide the highest amount of parental leave, while other industries, such as healthcare and consulting, lag behind. This indicates that parental leave benefits vary widely by sector.
+  The technology industry appears to provide the highest amount of parental leave, while other industries, such as healthcare and consulting, lag behind. This indicates that parental leave benefits vary widely by sector.
  
 - Leave Distribution Trends
   
-The distribution of paid parental leave weeks is more balanced across different leave durations, with many companies offering extended paid leave (9-13+ weeks).
-In contrast, unpaid leave is most commonly concentrated in the shortest duration (0-4 weeks), suggesting that employees have limited unpaid leave options.
+ The distribution of paid parental leave weeks is more balanced across different leave durations, with many companies offering extended paid leave (9-13+ weeks).
+ In contrast, unpaid leave is most commonly concentrated in the shortest duration (0-4 weeks), suggesting that employees have limited unpaid leave options.
 
 - Top Companies Offering Parental Leave
 
-Some companies stand out in providing substantial paid parental leave benefits, highlighting best practices in employee-friendly policies.
-Recommendations
+  Some companies stand out in providing substantial paid parental leave benefits, highlighting best practices in employee-friendly policies.
+  Recommendations
 
 - Increase Paid Parental Leave
   
@@ -82,6 +82,12 @@ Organizations in industries with minimal leave should benchmark against top-perf
 - Enhance Policy Awareness
 
  Companies should ensure employees are aware of their parental leave benefits by improving internal communication and accessibility of policies.
+
+
+
+
+
+
 
 
 
