@@ -37,10 +37,26 @@ In contrast, unpaid leave is most commonly concentrated in the shortest duration
 Top Companies Offering Parental Leave
 
 
-
 Some companies stand out in providing substantial paid parental leave benefits, highlighting best practices in employee-friendly policies.
 Recommendations
 Increase Paid Parental Leave
+
+Companies, especially in industries with lower averages, should consider extending paid parental leave to enhance employee satisfaction and retention.
+Reduce the Gap Between Industries
+
+Organizations in industries with minimal leave should benchmark against top-performing sectors (e.g., technology) to create more competitive parental leave policies.
+Introduce Flexible Leave Options
+
+Employers should consider flexible parental leave policies, such as shared or extended leave options, to accommodate different employee needs.
+Improve Unpaid Leave Policies
+
+While increasing paid leave is ideal, providing better unpaid leave options, such as job security and flexible return-to-work programs, can also support working parents.
+Enhance Policy Awareness
+
+Companies should ensure employees are aware of their parental leave benefits by improving internal communication and accessibility of policies.
+
+## Recommendations
+Increase Paid Parental Leave:
 
 Companies, especially in industries with lower averages, should consider extending paid parental leave to enhance employee satisfaction and retention.
 Reduce the Gap Between Industries
