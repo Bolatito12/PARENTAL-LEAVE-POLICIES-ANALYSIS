@@ -18,3 +18,9 @@ This project is to review existing parental leave policies across different orga
 	
 - Are there noticable differences between industries?
 
+
+  ![Screenshot 2025-02-13 154654](https://github.com/user-attachments/assets/ba1a3e11-edac-45c0-aeac-32f7f86788c5)
+
+
+
+
