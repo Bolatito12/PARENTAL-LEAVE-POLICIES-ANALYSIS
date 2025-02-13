@@ -7,11 +7,11 @@ This project is to review existing parental leave policies across different orga
 
 ## Key Problems and Questions:
 
--	Which companies offer the most paid parental leave weeks?
+- Which companies offer the most paid parental leave weeks?
   
--	Is maternity leave typically longer than paternity leave?
+- Is maternity leave typically longer than paternity leave?
 		
--	What is the distribution of parental leave weeks offered?
+- What is the distribution of parental leave weeks offered?
 	
 - Are there noticable differences between industries?
 
